@@ -1,6 +1,6 @@
-# datascience_libraries
+## datascience_libraries
 
-## Data sources: 
+#### Data sources: 
 
 Intructions:
 Download the data that will be used as dataset example:
@@ -12,28 +12,27 @@ https://www.kaggle.com/datasets/mzeeshan786/iris-dataset
 
 _____________________________________
 
-# How to Setup
+## How to Setup
 
 (Example)
-
-# Create virtual environment
+#### Create virtual environment
 `python -m venv venv`
 
-# Activate virtual environment
+#### Activate virtual environment
 
-# On Windows:
+#### On Windows:
 venv\Scripts\activate
 
-# On macOS/Linux:
+#### On macOS/Linux:
 source venv/bin/activate
 
-# Install dependencies
+#### Install dependencies
 `pip install -r requirements.txt`
 
 
 _____________________________________
 
-# Content
+## Content
 `data_preparation.ipynb`
 
 This notebook has basic commands to compare perform basics analzsis and compare Pandas and Polars.
